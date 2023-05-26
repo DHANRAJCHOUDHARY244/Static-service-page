@@ -32,23 +32,23 @@ function changeBackground() {
 
 function Earth_Lines_Sphere() {
     const video = document.getElementById('VIDEOBACKGROUND');
-    video.src = '../wp-content/themes/drake/assets/images/video1.mp4';
+    video.src = 'https://videos.files.wordpress.com/NQ9W1rHc/video1.mp4';
     document.body.classList.add('home1-page');
 }
 function _3D_Abstract_Ball() {
     const video = document.getElementById('VIDEOBACKGROUND');
-    video.src = '../wp-content/themes/drake/assets/images/video2.mp4';
+    video.src = 'https://videos.files.wordpress.com/WcaFyoFi/video2.mp4';
     document.body.classList.add('home2-page');
 }
 function Water_Waves() {
     const video = document.getElementById('VIDEOBACKGROUND');
-    video.src = '../wp-content/themes/drake/assets/images/video3.mp4';
+    video.src = 'https://videos.files.wordpress.com/uCB47XTr/video3.mp4';
     document.body.classList.add('home3-page');
 
 }
 function Liquids_Wavy() {
     const video = document.getElementById('VIDEOBACKGROUND');
-    video.src = '../wp-content/themes/drake/assets/images/video4.mp4';
+    video.src = 'https://videos.files.wordpress.com/1d8g0nzs/video4.mp4';
     document.body.classList.add('home4-page');
 
 }
@@ -58,7 +58,7 @@ function Solid_Color() {
 }
 function Simple_Strings() {
     const video = document.getElementById('VIDEOBACKGROUND');
-    video.src = '../wp-content/themes/drake/assets/images/video5.mp4';
+    video.src = 'https://videos.files.wordpress.com/zxZtIyYA/video5.mp4';
     document.body.classList.add('home5-page');
 
 }
